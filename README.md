@@ -1,6 +1,7 @@
 ### Olá! eu sou Felipe Chantre
 #### -tenho 18 Anos
 #### -Cursando Analise e desenvolvimento de sistemas 
+#### -curso completo de front end no senai Almirante Tamandaré
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.148548608796_crid.656532769092_kw.linked_d.c_tid.kwd-103941963_n.g_mt.e_geo.9100153)
 
